@@ -120,6 +120,13 @@ StScrollBar {
   -margin-horizontal: 1.5em;
   height: 1em; }
 
+.ripple-pointer-location {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  background-color: rgba(87, 156, 142, 0.3);
+  box-shadow: 0 0 2px 2px #579c8e; }
+
 .popup-slider-menu-item,
 .slider {
   -slider-height: 0.3em;
@@ -451,7 +458,7 @@ StScrollBar {
   padding: 0px; }
 
 .panel-top {
-  box-shadow: 0 -1px #212221; }
+  box-shadow: 0 0px #212221; }
 
 .panel-bottom {
   box-shadow: 0 -1px #212221; }
@@ -824,8 +831,8 @@ StScrollBar {
 
 #notification {
   border: 1px solid #212221;
-  border-radius: 3px;
-  background-color: #303130;
+  border-radius: 5px;
+  background-color: rgba(15, 15, 15, 0.60);
   padding: 13px;
   spacing-rows: 10px;
   spacing-columns: 10px;
@@ -833,7 +840,7 @@ StScrollBar {
   width: 34em;
   color: rgba(255, 255, 255, 0.87); }
   .popup-menu #notification {
-    color: rgba(255, 255, 255, 0.87);
+    color: rgba(255, 255, 255, 0.12);
     border-image: url("dark-assets/misc/message.svg") 9 9 9 9; }
     .popup-menu #notification .notification-button, .popup-menu #notification .notification-icon-button {
       padding: 5px; }
@@ -1283,6 +1290,7 @@ StScrollBar {
     border-color: #579c8e;
     background-color: rgba(255, 255, 255, 0.15); }
   .window-list-item-box .progress {
+    border-radius: 80px;
     background-color: rgba(87, 156, 142, 0.8); }
 
 .window-list-item-demands-attention {
@@ -1294,8 +1302,8 @@ StScrollBar {
   spacing: 6px;
   color: rgba(255, 255, 255, 0.87);
   border: 1px solid #212221;
-  background-color: #303130;
-  border-radius: 3px;
+  background-color: rgba(15, 15, 15, 0.60);
+  border-radius: 4px;
   padding: 6px 12px 12px 12px;
   font-size: 1em; }
 
