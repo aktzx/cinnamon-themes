@@ -1,12 +1,8 @@
-This is a theme for Cinnamon desktop enviornment based on Mint-Y-Teal theme- https://github.com/linuxmint/mint-themes
+This is a theme for Cinnamon desktop enviornment, based on Mint-Y-Teal theme- https://github.com/linuxmint/mint-themes
 
-Change Log 29/09/2022
+Change Log 22/12/2022
 
-Updated to latest Mint-Y-Teal theme.
-Added transparency to window list preview.
-Window list item box progress border rounded.
-Added transparency to notification.
-Top panel box shadow removed.
+Vibrant-Teal & Vibrant-Teal-Dark themes added based on latest Mint-Y-Teal theme.
 
 
 Installation
