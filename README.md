@@ -16,15 +16,15 @@ Extract the zip and copy the folders to /home/.themes (for theme available to a 
 **Dock:** Plank.
 **Dock Theme:** mcOS Monterey
 
-Modern-Teal-Dark
+**Modern-Teal-Dark**
 [![thumbnail.png](https://i.postimg.cc/wvftCbrY/thumbnail.png)](https://postimg.cc/bDnNbL8m)
 
-Modern-Teal
+**Modern-Teal**
 [![thumb2.png](https://i.postimg.cc/ZYs32Ckv/thumb2.png)](https://postimg.cc/WtrhJp1s)
 
-Vibrant-Teal-Dark
+**Vibrant-Teal-Dark**
 [![v2.png](https://i.postimg.cc/qqrkZcJH/v2.png)](https://postimg.cc/478kY9HW)
 
-Vibrant-Teal
+**Vibrant-Teal**
 [![v1.png](https://i.postimg.cc/KzSFR7g3/v1.png)](https://postimg.cc/7CVjR29q)
 
