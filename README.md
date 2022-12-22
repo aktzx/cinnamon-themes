@@ -11,10 +11,10 @@ Extract the zip and copy the folders to /home/.themes (for theme available to a 
 
 **Cinnamon/Linux Mint customization using this theme :** https://youtu.be/Yhp9gPfkNVk
 
-Icons: Tela-Circle-Manjaro
-       Tela-Circle-Grey
-Dock: Plank
-Dock Theme: mcOS Monterey
+**Icons:** Tela-Circle-Manjaro,
+       Tela-Circle-Grey.
+**Dock:** Plank.
+**Dock Theme:** mcOS Monterey
 
 Modern-Teal-Dark
 [![thumbnail.png](https://i.postimg.cc/wvftCbrY/thumbnail.png)](https://postimg.cc/bDnNbL8m)
