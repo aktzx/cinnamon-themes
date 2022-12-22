@@ -23,8 +23,8 @@ Extract the zip and copy the folders to /home/.themes (for theme available to a 
 [![thumb2.png](https://i.postimg.cc/nLbzxz76/thumb2.png)](https://postimg.cc/21GmFC0w)
 
 **Vibrant-Teal-Dark**
-[![v2.png](https://i.postimg.cc/qR7dHVmP/v2.png)](https://postimg.cc/06h4731n)
+[![vv1.png](https://i.postimg.cc/y65fL22r/vv1.png)](https://postimg.cc/JtNcnYrb)
 
 **Vibrant-Teal**
-[![v1.png](https://i.postimg.cc/tJwbzSNL/v1.png)](https://postimg.cc/RJ72ST8R)
+[![vv22.png](https://i.postimg.cc/7P7BQKDH/vv22.png)](https://postimg.cc/9zmtDtrK)
 
