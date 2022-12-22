@@ -10,7 +10,7 @@ Installation
 Extract the zip and copy the folders to /home/.themes (for theme available to a single user) or /usr/share/themes (for theme available to every user in the system)
 
 [![thumbnail.png](https://i.postimg.cc/wvftCbrY/thumbnail.png)](https://postimg.cc/bDnNbL8m)
-
-
-
+[![thumb2.png](https://i.postimg.cc/ZYs32Ckv/thumb2.png)](https://postimg.cc/WtrhJp1s)
+[![v2.png](https://i.postimg.cc/qqrkZcJH/v2.png)](https://postimg.cc/478kY9HW)
+[![v1.png](https://i.postimg.cc/KzSFR7g3/v1.png)](https://postimg.cc/7CVjR29q)
 
