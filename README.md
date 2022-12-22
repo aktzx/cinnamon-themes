@@ -9,5 +9,8 @@ Installation
 
 Extract the zip and copy the folders to /home/.themes (for theme available to a single user) or /usr/share/themes (for theme available to every user in the system)
 
-
+https://imgbox.com/LvsjJKNB
+https://imgbox.com/0bvCKQXv
+https://imgbox.com/tqEoNUnJ
+https://imgbox.com/UY1S94RS
 
