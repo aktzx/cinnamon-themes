@@ -1119,7 +1119,8 @@ StScrollBar {
   border: 1px solid rgba(0, 0, 0, 0);
   border-radius: 2px; }
   .menu-favorites-button:hover {
-    background-color: #5aaa9a; }
+    background-color: #5aaa9a; 
+    border-radius:4px;}
 
 .menu-places-box {
   padding: 10px;
@@ -1143,7 +1144,8 @@ StScrollBar {
     padding: 7px;
     color: #ffffff;
     background-color: #5aaa9a;
-    border: 1px solid #bbc5c0; }
+    border: 1px solid #bbc5c0;
+    border-radius:4px; }
     .menu-application-button-selected:highlighted {
       font-weight: bold; }
   .menu-application-button-label:ltr {
@@ -1158,10 +1160,12 @@ StScrollBar {
     padding: 7px;
     color: #ffffff;
     background-color: #5aaa9a;
-    border: 1px solid #bbc5c0; }
+    border: 1px solid #bbc5c0;
+    border-radius:4px; }
   .menu-category-button-hover {
     background-color: red;
-    border-radius: 2px; }
+    border-radius: 2px; 
+    border-radius:4px;}
   .menu-category-button-greyed {
     padding: 7px;
     color: rgba(0, 0, 0, 0.42);
