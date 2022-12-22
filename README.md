@@ -17,14 +17,14 @@ Extract the zip and copy the folders to /home/.themes (for theme available to a 
 **Dock Theme:** mcOS Monterey
 
 **Modern-Teal-Dark**
-[![thumbnail.png](https://i.postimg.cc/wvftCbrY/thumbnail.png)](https://postimg.cc/bDnNbL8m)
+[![thumbnail.png](https://i.postimg.cc/sgSjTr8K/thumbnail.png)](https://postimg.cc/LJ9FsrmZ)
 
 **Modern-Teal**
-[![thumb2.png](https://i.postimg.cc/ZYs32Ckv/thumb2.png)](https://postimg.cc/WtrhJp1s)
+[![thumb2.png](https://i.postimg.cc/nLbzxz76/thumb2.png)](https://postimg.cc/21GmFC0w)
 
 **Vibrant-Teal-Dark**
-[![v2.png](https://i.postimg.cc/qqrkZcJH/v2.png)](https://postimg.cc/478kY9HW)
+[![v2.png](https://i.postimg.cc/qR7dHVmP/v2.png)](https://postimg.cc/06h4731n)
 
 **Vibrant-Teal**
-[![v1.png](https://i.postimg.cc/KzSFR7g3/v1.png)](https://postimg.cc/7CVjR29q)
+[![v1.png](https://i.postimg.cc/tJwbzSNL/v1.png)](https://postimg.cc/RJ72ST8R)
 
